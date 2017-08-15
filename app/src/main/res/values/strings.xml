@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">VR</string>
+    <string name="title">At the top of Spain</string>
+    <string name="subtitle">Las Canadas del Teide National Park</string>
+    <string name="paragraph1">If you’re in Tenerife then you inevitably have to visit the Las Cañadas del Teide National Park.</string>
+    <string name="paragraph2">Las Canadas del Teide National Park may be snowy between December and March (as was the case last year before we began our world trip), but that isn\'t something that\'s guaranteed across the whole national park. \n\n Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque diam, facilisis nec odio eget, viverra lacinia dolor. Aenean nunc ante, commodo nec sem nec, pellentesque sollicitudin mauris. Integer vel scelerisque ante, ut commodo libero. Quisque et mi eu massa rhoncus imperdiet. Vivamus pharetra eget eros nec gravida. Cras efficitur sem magna. Etiam sit amet ornare felis. Proin urna urna, viverra eu fermentum eget, pulvinar non justo. Sed fringilla dolor eget erat cursus tempus. Cras iaculis vel diam a venenatis. Nulla dolor lacus, eleifend eu orci vel, varius iaculis enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris aliquet tincidunt tellus at ultrices. Donec interdum sit amet purus at pellentesque. Aliquam erat volutpat.
+        \n\nVestibulum blandit posuere dapibus. Quisque a augue sit amet massa congue tristique. Cras non semper libero, id mollis mi. Aliquam sed lectus non nisl dignissim viverra vestibulum quis erat. Quisque vestibulum enim ex. Morbi hendrerit dictum aliquet. Etiam et hendrerit massa. Aliquam sodales hendrerit turpis, nec gravida enim iaculis in. Proin sit amet lorem ac tellus accumsan efficitur. Vestibulum egestas enim nibh, non vestibulum enim facilisis vel. Nulla porttitor, purus nec dictum mollis, lorem neque bibendum leo, nec tincidunt dolor odio ac elit. Donec scelerisque sed mi id mattis. Sed in nisi felis. Duis pellentesque diam euismod magna mollis, eleifend convallis tortor euismod.</string>
+</resources>
